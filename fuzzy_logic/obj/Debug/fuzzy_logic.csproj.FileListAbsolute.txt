@@ -1,0 +1,10 @@
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\bin\Debug\fuzzy_logic.exe.config
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\bin\Debug\fuzzy_logic.exe
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\bin\Debug\fuzzy_logic.pdb
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.csproj.AssemblyReference.cache
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.Form1.resources
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.Properties.Resources.resources
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.csproj.GenerateResource.cache
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.csproj.CoreCompileInputs.cache
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.exe
+C:\Users\eren\source\repos\fuzzy_logic\fuzzy_logic\obj\Debug\fuzzy_logic.pdb

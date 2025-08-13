@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fuzzy_logic", "fuzzy_logic\fuzzy_logic.csproj", "{0EE2475D-17C0-4291-AC42-3F0BC326BE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE2475D-17C0-4291-AC42-3F0BC326BE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE2475D-17C0-4291-AC42-3F0BC326BE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE2475D-17C0-4291-AC42-3F0BC326BE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE2475D-17C0-4291-AC42-3F0BC326BE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5A1F92-B4F5-49C1-BA79-5039D8BDC988}
+	EndGlobalSection
+EndGlobal
