@@ -1,7 +1,7 @@
 # Fuzzy Logic Washing Machine Controller
-
+This project implements a Fuzzy Logic Controller for a washing machine, developed in C# with a Windows Forms interface.
 ## Overview
-This project implements a Fuzzy Logic Controller for a washing machine, developed in C# with a Windows Forms interface. The system uses fuzzy logic to determine optimal washing parameters (spin speed, duration, and detergent amount) based on three input variables: fabric sensitivity, laundry amount, and dirtiness level. The controller employs the Mamdani inference method for fuzzy reasoning and provides both centroid and weighted average defuzzification techniques.
+The system uses fuzzy logic to determine optimal washing parameters (spin speed, duration, and detergent amount) based on three input variables: fabric sensitivity, laundry amount, and dirtiness level. The controller employs the Mamdani inference method for fuzzy reasoning and provides both centroid and weighted average defuzzification techniques.
 
 ## Features
 - **Fuzzy Sets:** Supports triangular and trapezoidal membership functions for input and output variables.
